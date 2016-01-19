@@ -1,0 +1,5 @@
+C:\Users\STU21\Desktop\abstra\EX_02\EX_02\bin\Debug\EX_02.exe.config
+C:\Users\STU21\Desktop\abstra\EX_02\EX_02\bin\Debug\EX_02.exe
+C:\Users\STU21\Desktop\abstra\EX_02\EX_02\bin\Debug\EX_02.pdb
+C:\Users\STU21\Desktop\abstra\EX_02\EX_02\obj\Debug\EX_02.exe
+C:\Users\STU21\Desktop\abstra\EX_02\EX_02\obj\Debug\EX_02.pdb

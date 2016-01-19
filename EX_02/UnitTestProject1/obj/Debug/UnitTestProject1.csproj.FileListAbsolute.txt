@@ -1,0 +1,10 @@
+C:\Users\STU21\Desktop\abstra\EX_02\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\STU21\Desktop\abstra\EX_02\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\STU21\Desktop\abstra\EX_02\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\STU21\Desktop\abstra\EX_02\UnitTestProject1\bin\Debug\EX_02.exe
+C:\Users\STU21\Desktop\abstra\EX_02\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\STU21\Desktop\abstra\EX_02\UnitTestProject1\bin\Debug\EX_02.pdb
+C:\Users\STU21\Desktop\abstra\EX_02\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\STU21\Desktop\abstra\EX_02\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\STU21\Desktop\abstra\EX_02\UnitTestProject1\obj\Debug\Interop.RoxSKUAboutDlgLib.dll
+C:\Users\STU21\Desktop\abstra\EX_02\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.ResolveComReference.cache
