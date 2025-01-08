@@ -23,15 +23,6 @@ public class Node<T extends Comparable<T>> {
 
             }
         }
-
-//        if(first.value.equals((value)))
-//        {
-//            System.out.print("koooty");
-//        }
-//        if(first.value!=value)
-//        {
-//            System.out.print("koooty");
-//        }
     }
 
     /**
